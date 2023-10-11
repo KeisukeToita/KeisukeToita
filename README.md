@@ -1,3 +1,7 @@
+# Keisuke Toita
+## Profile
+- University: UEC(University of Electro-Communication)
+
 - 👋 Hi, I’m @KeisukeToita
 - 👀 I’m interested in Soccer.
 - 🌱 I’m currently learning ...
